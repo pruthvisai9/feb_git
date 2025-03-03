@@ -1,1 +1,1 @@
-Edi Git &git hub class 
+ATM program using condtional statements and looping staements and jumpinng statements
